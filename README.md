@@ -1,7 +1,8 @@
+<img alt="CPT Group Logo" width="600" src="https://github.com/user-attachments/assets/8dc68c12-5f4e-4494-a43a-1b99950ed1ec" />
 <!-- CPT Group Organization Profile README -->
 
 <p align="center">
-  <img src="https://www.cptgroup.com/_next/image?url=%2Fimages%2Flogo.svg&w=256&q=75" alt="CPT Group Logo" width="180"/>
+  <img src="https://www.cptgroup.com/_next/image?url=%2Fimages%2Flogo.svg&w=256&q=75" />
 </p>
 
 <h1 align="center">CPT Group, Inc.</h1>
