@@ -1,10 +1,7 @@
-<img alt="CPT Group Logo" width="600" src="https://github.com/user-attachments/assets/8dc68c12-5f4e-4494-a43a-1b99950ed1ec" />
-<!-- CPT Group Organization Profile README -->
-
 <p align="center">
-  <img src="https://www.cptgroup.com/_next/image?url=%2Fimages%2Flogo.svg&w=256&q=75" />
-</p>
+  <img  alt="CPT Group Logo" width="500" alt="cptbg-law" src="https://github.com/user-attachments/assets/2230b6ef-0aa7-4038-98e5-83abb9fd6a8c" />
 
+</p>
 <h1 align="center">CPT Group, Inc.</h1>
 <h3 align="center">Elevating Standards and Setting the Bar in Class Action Administration</h3>
 
